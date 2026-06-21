@@ -1,0 +1,3 @@
+# PDFs são fontes externas — links documentados em fontes/README.md
+fontes/*.pdf
+.DS_Store
